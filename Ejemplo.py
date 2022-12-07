@@ -68,3 +68,11 @@ for i in palabra:
     if i=='a':
         contador=contador+1
 print('Cantidad de letras a: ',contador)
+
+
+palabra='parangaragutirimicuaro'
+contador=0
+for i in palabra:
+    if i=='a':
+        contador=contador+1
+print('Cantidad de letras a: ',contador)
